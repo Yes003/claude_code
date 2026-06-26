@@ -1,0 +1,1 @@
+accss to domo.txt
